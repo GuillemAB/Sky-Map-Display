@@ -2,4 +2,3 @@ Flask
 matplotlib
 gunicorn
 numpy
-io
